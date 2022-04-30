@@ -1,12 +1,12 @@
-## Hi there 👋
+## Welcome to the official repository of UniFeat project
 
-<!--
+The **Uni**versal **Feat**ure Selection Tool (UniFeat) is an open-source tool for performing feature selection process in different areas of research. Provided below are the repositories that have been created in support of UniFeat project:
+- [unifeat](https://github.com/UniFeat/unifeat) --> Contains source-code and jar files of the project
+- [data](https://github.com/UniFeat/data) --> Contains datasets for use in UniFeat
+- [UniFeat.github.io](https://github.com/UniFeat/UniFeat.github.io) --> Provides source code of the website’s project
 
-**Here are some ideas to get you started:**
+For more information visit our [website](https://UniFeat.github.io).
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center" width="100%">
+    <a href="https://unifeat.github.io/" target="_blank"><img width="25%" src="https://unifeat.github.io/images/logo.png"></a>
+</p>
